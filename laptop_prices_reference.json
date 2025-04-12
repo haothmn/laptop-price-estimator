@@ -1,0 +1,5650 @@
+[
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 836.9649999999999
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 754.005
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 264.14
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 486.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 333.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 452.5375
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 496.034
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 501.93
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 751.43125
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i5",
+    "RAM": 12,
+    "Storage": 256,
+    "Final Price": 391.24
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i5",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 425.385
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 739.01
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 764.9866666666667
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Aspire",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 667.77
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Book",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1499.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 359.99666666666667
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 449.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 792.55
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 848.5
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1139.01
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Chromebook",
+    "CPU": "Qualcomm Snapdragon 7",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 602.66
+  },
+  {
+    "Brand": "Acer",
+    "Model": "ConceptD",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1235.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "ConceptD",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2053.07
+  },
+  {
+    "Brand": "Acer",
+    "Model": "ConceptD",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2018.5883333333334
+  },
+  {
+    "Brand": "Acer",
+    "Model": "ConceptD",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3143.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Enduro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 3442.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 425.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 456.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 435.07
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 467.38199999999995
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 579.9616666666667
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 561.7475
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 1000,
+    "Final Price": 583.85
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 670.67
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Extensa",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 423.58
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1559.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1199.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 670.53
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1256.8200000000002
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2299.0
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2399.01
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 477.59
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 666.69
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 881.13
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1246.597142857143
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1282.52
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Nitro",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1495.69
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Predator",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1702.3366666666668
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Predator",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1524.14625
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Predator",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1928.194
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Swift",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1473.01
+  },
+  {
+    "Brand": "Acer",
+    "Model": "Swift",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1347.18
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 547.19
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 708.485
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 788.0033333333334
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 817.405
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 714.29
+  },
+  {
+    "Brand": "Acer",
+    "Model": "TravelMate",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 474.99
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Alurin",
+    "CPU": "AMD Radeon 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Alurin",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 500,
+    "Final Price": 869.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 399.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 429.9
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 489.45
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 399.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 500,
+    "Final Price": 509.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 0,
+    "Final Price": 368.7
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 509.6666666666667
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 500,
+    "Final Price": 563.3333333333334
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 584.255
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Flex Advance",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 739.0
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Go",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 292.3333333333333
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Go",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 347.45500000000004
+  },
+  {
+    "Brand": "Alurin",
+    "Model": "Go",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 364.45500000000004
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M1",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1219.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M1",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1349.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M1",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1349.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M1",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1569.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M2",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1554.5555555555557
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M2",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1849.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M2",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1639.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Apple M2",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1969.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 734.9200000000001
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 299.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 324.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 550.446
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 829.5540000000001
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 957.505
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Air",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1191.495
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1029.76
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1999.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3849.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1 Pro",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2500.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1 Pro",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2785.402
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M1 Pro",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2500.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1609.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1849.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1729.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1899.01
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3525.67
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2 Pro",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2499.0025
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2 Pro",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2869.0075
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2 Pro",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 2999.0
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Apple M2 Pro",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3239.0066666666667
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 755.25
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 821.7555555555556
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1010.226
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1301.145
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1491.33
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1118.25
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1037.9025
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1632.5
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1410.65
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1911.95
+  },
+  {
+    "Brand": "Apple",
+    "Model": "MacBook Pro",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 2733.2
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Macbook",
+    "CPU": "Intel Core M3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 573.7466666666668
+  },
+  {
+    "Brand": "Apple",
+    "Model": "Macbook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 684.65
+  },
+  {
+    "Brand": "Asus",
+    "Model": "14w",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 4949.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "BR",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 495.33
+  },
+  {
+    "Brand": "Asus",
+    "Model": "BR",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 609.15
+  },
+  {
+    "Brand": "Asus",
+    "Model": "BR",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 699.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "BR",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 649.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Apple M1",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 449.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 32,
+    "Final Price": 310.3675
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 32,
+    "Final Price": 388.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 408.0014285714286
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Core M3",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 549.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 699.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 939.8433333333332
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Chromebook",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 918.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "E410",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 400.5
+  },
+  {
+    "Brand": "Asus",
+    "Model": "E510",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 299.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "E510",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 326.3833333333334
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 469.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 568.024
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 904.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 867.9966666666666
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 1000,
+    "Final Price": 744.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1010.1392307692307
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 849.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1393.0423076923075
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ExpertBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1759.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F415",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 403.23
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F415EA",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 475.90000000000003
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F415EA",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 579.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 487.39166666666665
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 550.6
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 629.8457142857143
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i5",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 824.78
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 720.92
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 826.6933333333333
+  },
+  {
+    "Brand": "Asus",
+    "Model": "F515",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 749.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "G7",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 569.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 595.72
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 707.51
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515UA",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 550.995
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515UA",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 625.41
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515UA",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 683.81
+  },
+  {
+    "Brand": "Asus",
+    "Model": "M515UA",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 744.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "P1411",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 549.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "P1511",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 846.935
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ProArt",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2846.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Radeon 9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 4753.32
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Radeon 9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 5630.9
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1107.4416666666666
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1449.4233333333332
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2244.798
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1742.8014285714287
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2676.3478260869565
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 64,
+    "Storage": 1000,
+    "Final Price": 2871.29
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 5159.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 64,
+    "Storage": 4000,
+    "Final Price": 3999.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1159.44
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1002.5066666666667
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2004.5716666666667
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2603.332
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2943.440625
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 3932.3366666666666
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 3000,
+    "Final Price": 3499.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 1000,
+    "Final Price": 4299.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ROG",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 5758.14
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1122.26
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1237.33375
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1224.6072727272729
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1889.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1858.435
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 1699.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1899.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 946.7
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 936.61375
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1162.8463636363635
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1309.2366666666667
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1877.002
+  },
+  {
+    "Brand": "Asus",
+    "Model": "TUF",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1994.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "Ultra",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 32,
+    "Final Price": 1349.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 563.23
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 473.93
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 797.505
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 495.74
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1252.2833333333333
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1325.295
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 451.365
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 398.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 440.947
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 443.62399999999997
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 569.716
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 623.7605882352941
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i5",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 832.01
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 823.2385714285714
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 665.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 718.27
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i7",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 799.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 918.9507142857143
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 2089.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1449.5
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Pentium",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 561.1
+  },
+  {
+    "Brand": "Asus",
+    "Model": "VivoBook",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 763.065
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 712.1566666666668
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 903.26375
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1003.6690000000001
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1377.62
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 819.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 828.2033333333333
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1040.2725
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2799.0
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1202.495
+  },
+  {
+    "Brand": "Asus",
+    "Model": "ZenBook",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1245.3333333333333
+  },
+  {
+    "Brand": "Deep Gaming",
+    "Model": "Nubian",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1441.7525
+  },
+  {
+    "Brand": "Deep Gaming",
+    "Model": "Nubian",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 1525.0
+  },
+  {
+    "Brand": "Deep Gaming",
+    "Model": "Nubian",
+    "CPU": "Intel Core i7",
+    "RAM": 64,
+    "Storage": 1000,
+    "Final Price": 1568.005
+  },
+  {
+    "Brand": "Deep Gaming",
+    "Model": "Nubian",
+    "CPU": "Intel Core i7",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 1615.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 434.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 240,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 978.3915000000001
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 699.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 514.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1317.34
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1177.9
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1259.59
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1475.2075
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Latitude",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1620.92
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Precision",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1190.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Precision",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1848.46
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Precision",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 3702.5
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 968.0025
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i3",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 600.68
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 739.3466666666667
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 827.6242857142857
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 693.9399999999999
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 915.3
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 995.092
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 919.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1020.24
+  },
+  {
+    "Brand": "Dell",
+    "Model": "Vostro",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1216.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 699.0
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2063.26
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1613.305
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2665.545
+  },
+  {
+    "Brand": "Dell",
+    "Model": "XPS",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2818.09
+  },
+  {
+    "Brand": "Denver",
+    "Model": "Electronics",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 329.95
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Port\u00e9g\u00e9",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1369.87
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Port\u00e9g\u00e9",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1561.3666666666668
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Port\u00e9g\u00e9",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1805.01
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 706.8199999999999
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 397.29
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 739.0
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 630.78
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 407.49
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Satellite Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 799.0
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Tecra",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 894.005
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Tecra",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1026.005
+  },
+  {
+    "Brand": "Dynabook Toshiba",
+    "Model": "Tecra",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1637.0
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "A7",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1295.89
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1392.74
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2039.098
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 2000,
+    "Final Price": 2610.8975
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1557.69
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1313.64
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aero",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 3799.0
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1086.85
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1133.2
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1959.118
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 1389.665
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3099.0
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "Aorus",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2179.0
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "G5",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1149.005
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "G7",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1376.02
+  },
+  {
+    "Brand": "Gigabyte",
+    "Model": "U4",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 849.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "14S",
+    "CPU": "AMD Athlon",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 424.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD 3020e",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 376.0333333333333
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD 3020e",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 355.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD 3020e",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 333.505
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Athlon",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 403.07
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Athlon",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 406.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 481.78000000000003
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 491.76666666666665
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 506.98
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 591.455
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 12,
+    "Storage": 256,
+    "Final Price": 655.34
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 549.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 600.57
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 607.665
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 12,
+    "Storage": 256,
+    "Final Price": 750.08
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 12,
+    "Storage": 512,
+    "Final Price": 678.542
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 649.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 395.4
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 380.67333333333335
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 454.505
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 456.16333333333336
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 515.4225
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 510.91166666666663
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 589.967
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 1000,
+    "Final Price": 732.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 749.16
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 723.7911111111111
+  },
+  {
+    "Brand": "HP",
+    "Model": "15S",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 785.63
+  },
+  {
+    "Brand": "HP",
+    "Model": "17",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 391.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "17",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 661.11
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 379.9666666666667
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 555.9457142857143
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 447.736
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1132.4866666666667
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 644.5983333333334
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 696.89
+  },
+  {
+    "Brand": "HP",
+    "Model": "250",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 912.8279999999999
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD 3020e",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 339.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Athlon",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 349.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Athlon",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 379.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 523.192
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 441.66499999999996
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 1000,
+    "Final Price": 471.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 672.32
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 534.8433333333334
+  },
+  {
+    "Brand": "HP",
+    "Model": "255",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 734.15
+  },
+  {
+    "Brand": "HP",
+    "Model": "470",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1212.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "470",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1300.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "AMD Athlon",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 409.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 579.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 32,
+    "Final Price": 281.70666666666665
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 370.75
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 429.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 458.99
+  },
+  {
+    "Brand": "HP",
+    "Model": "Chromebook",
+    "CPU": "Mediatek MT8183",
+    "RAM": 4,
+    "Storage": 32,
+    "Final Price": 458.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 893.1342857142856
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1158.2725
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 291.69
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1447.1514285714286
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 538.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1654.05
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1503.2666666666667
+  },
+  {
+    "Brand": "HP",
+    "Model": "EliteBook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2119.005
+  },
+  {
+    "Brand": "HP",
+    "Model": "Envy",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1049.99
+  },
+  {
+    "Brand": "HP",
+    "Model": "Envy",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1658.56
+  },
+  {
+    "Brand": "HP",
+    "Model": "Envy",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1999.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "Envy",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1599.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "G7",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 581.07
+  },
+  {
+    "Brand": "HP",
+    "Model": "G7",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 684.93
+  },
+  {
+    "Brand": "HP",
+    "Model": "Go",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1699.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Notebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 329.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1269.5866666666668
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1070.344
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1242.39
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 1000,
+    "Final Price": 784.69
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1524.517142857143
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1809.514
+  },
+  {
+    "Brand": "HP",
+    "Model": "Omen",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2399.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 762.0733333333334
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 728.0799999999999
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 793.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 811.73
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 932.2766666666666
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 663.38
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1073.3714285714286
+  },
+  {
+    "Brand": "HP",
+    "Model": "Pavilion",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1519.005
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1069.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 799.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 899.99
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 999.0
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "Intel Core i5",
+    "RAM": 4,
+    "Storage": 500,
+    "Final Price": 644.9200000000001
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 795.498
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1169.575
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1512.04
+  },
+  {
+    "Brand": "HP",
+    "Model": "ProBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1263.245
+  },
+  {
+    "Brand": "HP",
+    "Model": "Spectre",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1699.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 816.8833333333333
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 907.0799999999999
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 896.1375
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1234.914
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1438.68
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 935.13
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1329.51
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1251.5385714285715
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1299.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Victus",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 1499.01
+  },
+  {
+    "Brand": "HP",
+    "Model": "Zbook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2079.4466666666667
+  },
+  {
+    "Brand": "HP",
+    "Model": "Zbook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2558.846666666667
+  },
+  {
+    "Brand": "HP",
+    "Model": "Zbook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 3251.935
+  },
+  {
+    "Brand": "HP",
+    "Model": "Zbook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3589.773333333333
+  },
+  {
+    "Brand": "HP",
+    "Model": "Zbook",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 4805.65
+  },
+  {
+    "Brand": "Innjoo",
+    "Model": "Voom",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 251.4
+  },
+  {
+    "Brand": "Innjoo",
+    "Model": "Voom",
+    "CPU": "Intel Celeron",
+    "RAM": 6,
+    "Storage": 64,
+    "Final Price": 383.61
+  },
+  {
+    "Brand": "Innjoo",
+    "Model": "Voom",
+    "CPU": "Intel Celeron",
+    "RAM": 6,
+    "Storage": 128,
+    "Final Price": 374.2
+  },
+  {
+    "Brand": "Innjoo",
+    "Model": "Voom",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 311.37
+  },
+  {
+    "Brand": "Innjoo",
+    "Model": "Voom",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 392.55
+  },
+  {
+    "Brand": "Jetwing",
+    "Model": "N1510",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 469.27
+  },
+  {
+    "Brand": "LG",
+    "Model": "15U70N",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 704.24
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 609.04
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1149.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1658.755
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1999.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 2209.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1424.19
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 701.28
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1786.805
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1899.01
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 512,
+    "Final Price": 2301.77
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1951.0059999999999
+  },
+  {
+    "Brand": "LG",
+    "Model": "Gram",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 1882.19
+  },
+  {
+    "Brand": "LG",
+    "Model": "Ultra",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 969.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Ultra",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1299.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Ultra",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1999.0
+  },
+  {
+    "Brand": "LG",
+    "Model": "Ultra",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2199.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "100e",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 330.41999999999996
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "100w",
+    "CPU": "AMD 3015e",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 397.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "14w",
+    "CPU": "AMD 3015e",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 461.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "250",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 358.99
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "300w",
+    "CPU": "AMD 3015e",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 461.48
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Chromebook",
+    "CPU": "AMD 3015Ce",
+    "RAM": 4,
+    "Storage": 32,
+    "Final Price": 327.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 451.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD 3020e",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 438.995
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD 3020e",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 371.995
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD 3020e",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 299.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 471.2114285714286
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 834.11
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 695.8653846153846
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 899.729
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 739.475
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 968.5642857142857
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1259.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 324.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 64,
+    "Final Price": 391.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 579.21
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 480.95
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 513.38
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 633.8499999999999
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 779.01
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 809.5366666666667
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 904.6435714285715
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 501.99
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 944.0799999999999
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 954.98125
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "IdeaPad",
+    "CPU": "Qualcomm Snapdragon 7",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 565.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "LOQ",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1498.33
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1252.5
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1177.085
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1274.8600000000001
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1319.01
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 875.54
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1630.8600000000001
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2041.9475000000002
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2138.3366666666666
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Legion",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3964.9139999999998
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 581.895
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 836.2133333333333
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1584.4299999999998
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2424.01
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 651.5174999999999
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 917.3166666666667
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1102.8177777777778
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1254.9985714285715
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1219.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2858.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkBook",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1162.82
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 903.5300000000001
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1061.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1729.315
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 419.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 966.4472727272728
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 868.005
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 746.75
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1336.1046153846155
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 856.5616666666666
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 587.32
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1770.33875
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2305.4133333333334
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 2000,
+    "Final Price": 1795.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2820.7125
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1423.74
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2204.98
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 3107.62
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3721.08
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "ThinkPad",
+    "CPU": "Qualcomm Snapdragon 8",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1997.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V14",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 756.95
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V14",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 739.61
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V14",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 484.5
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V14",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 513.87
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V14",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 535.99
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD 3020e",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 445.79
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 379.45
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 399.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 565.3333333333334
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 476.53999999999996
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 475.995
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 628.99
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 564.815
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 679.5
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 279.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 361.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 355.5675
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 492.9866666666667
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 527.0433333333334
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 630.5775
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 615.6183333333333
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 850.97
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 758.0233333333332
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V15",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 846.095
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V17",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 999.62
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "V330",
+    "CPU": "Intel Core i3",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 499.49
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1145.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1438.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 1168.13
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 989.47
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 786.84
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2036.84
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 979.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1562.06
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1271.0
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1619.0933333333332
+  },
+  {
+    "Brand": "Lenovo",
+    "Model": "Yoga",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2308.64
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Alpha",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 716.54
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Bravo",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 897.1700000000001
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Bravo",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 999.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Bravo",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1149.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1399.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1859.4650000000001
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2501.8134999999997
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3017.786666666667
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 3899.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 1000,
+    "Final Price": 3289.01
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Creator",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 3640.5440000000003
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Crosshair",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1999.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Cyborg",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1249.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Delta",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1699.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "GL65",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 885.84
+  },
+  {
+    "Brand": "MSI",
+    "Model": "GL75",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 937.48
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Katana",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1112.03
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Katana",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1469.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Katana",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1496.21625
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Katana",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1579.2485714285715
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Katana",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1899.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Leopard",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1022.26
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Leopard",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1253.8708333333334
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Leopard",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1949.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 616.5675
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 839.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 899.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 732.3333333333334
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 722.5783333333334
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 920.6757142857142
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 972.8507692307692
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Modern",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1090.2175
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1014.495
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1165.6075
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1581.930833333333
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1596.3700000000001
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1339.01
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1399.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1499.01
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Prestige",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1599.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Pulse",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1898.2707142857143
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Pulse",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1618.1000000000001
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Pulse",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2074.0025
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Raider",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2596.9363636363637
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Raider",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2852.6083333333336
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Raider",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 7150.47
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Raider",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 4359.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1430.18
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1759.9666666666667
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2571.802380952381
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 2067.84
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 2914.18
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Stealth",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 2679.88
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Summit",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1492.0749999999998
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Summit",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1942.877777777778
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Summit",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1709.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Summit",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1772.3333333333333
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Summit",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1899.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Thin",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1030.498
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Thin",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 829.0942857142857
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Thin",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1399.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Titan",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1721.09
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Titan",
+    "CPU": "Intel Core i7",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 2373.14
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Titan",
+    "CPU": "Intel Core i9",
+    "RAM": 64,
+    "Storage": 2000,
+    "Final Price": 4797.5275
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Titan",
+    "CPU": "Intel Core i9",
+    "RAM": 128,
+    "Storage": 2000,
+    "Final Price": 5999.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Vector",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2299.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Vector",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2717.5916666666667
+  },
+  {
+    "Brand": "MSI",
+    "Model": "Vector",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2599.0
+  },
+  {
+    "Brand": "MSI",
+    "Model": "WS63",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3900.5
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 408.7866666666667
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 4,
+    "Storage": 256,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 506.875
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 478.99
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 499.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 358.875
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 267.49
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 408.24
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 623.245
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Akoya",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 609.2925
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Beast",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2599.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Beast",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3199.01
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Beast",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 3799.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Classmate Pro",
+    "CPU": "Intel Core i3",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 273.61
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Classmate Pro",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 429.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Deputy",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1014.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Deputy",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1529.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Erazer",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 859.0
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Erazer",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1119.01
+  },
+  {
+    "Brand": "Medion",
+    "Model": "Erazer",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1664.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Go",
+    "CPU": "Intel Core M3",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 1147.67
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Go",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 841.8633333333333
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Go",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 994.905
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Go",
+    "CPU": "Intel Pentium",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 599.01
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1129.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1549.27
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "AMD Ryzen 7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1649.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 686.88
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 796.5
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 975.7725
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1668.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1699.01
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2556.9866666666667
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1251.19
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2231.78
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2799.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 3199.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1250.2350000000001
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1497.635
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1846.85
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1593.995
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 1793.645
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 2207.825
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Laptop",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2110.63
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 1009.99
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1176.79
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1111.35
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1916.99
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1489.3400000000001
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1499.005
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1776.79
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 2014.58
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 1582.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1337.982
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1778.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1741.4333333333334
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2189.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2685.75
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Microsoft SQ1",
+    "RAM": 8,
+    "Storage": 128,
+    "Final Price": 1049.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Microsoft SQ1",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 1299.0
+  },
+  {
+    "Brand": "Microsoft",
+    "Model": "Surface Pro",
+    "CPU": "Microsoft SQ1",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 2406.35
+  },
+  {
+    "Brand": "Millenium",
+    "Model": "AURELION",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 1640.98
+  },
+  {
+    "Brand": "Millenium",
+    "Model": "AZIR",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 2312.71
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 1431.5666666666668
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1049.0
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 1594.9
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1699.6000000000001
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 500,
+    "Final Price": 1749.45
+  },
+  {
+    "Brand": "PcCom",
+    "Model": "Revolt",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 1782.97
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "AMD Ryzen 3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 599.41
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "AMD Ryzen 5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 338.81
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 240.785
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "Intel Celeron",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 229.0
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 314.85
+  },
+  {
+    "Brand": "Primux",
+    "Model": "Ioxbook",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 438.46
+  },
+  {
+    "Brand": "Prixton",
+    "Model": "Flex",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 329.95
+  },
+  {
+    "Brand": "Prixton",
+    "Model": "Netbook Pro",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 299.94
+  },
+  {
+    "Brand": "Prixton",
+    "Model": "Netbook Pro",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 128,
+    "Final Price": 246.95
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "AMD Ryzen 9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 3502.72
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1408.065
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 3011.888571428571
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i7",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3492.441428571429
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i9",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 3549.25
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 4319.974
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Blade",
+    "CPU": "Intel Core i9",
+    "RAM": 32,
+    "Storage": 2000,
+    "Final Price": 4999.01
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Book",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 256,
+    "Final Price": 1699.99
+  },
+  {
+    "Brand": "Razer",
+    "Model": "Book",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1899.99
+  },
+  {
+    "Brand": "Realme",
+    "Model": "Book Prime",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 999.0
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 32,
+    "Final Price": 365.9
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Chromebook",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 434.0
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 849.005
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 924.98
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1439.0033333333333
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Evo Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1466.3333333333333
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 512,
+    "Final Price": 1978.79125
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Evo Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 2999.01
+  },
+  {
+    "Brand": "Samsung",
+    "Model": "Galaxy Book",
+    "CPU": "Intel Evo Core i9",
+    "RAM": 32,
+    "Storage": 1000,
+    "Final Price": 3699.01
+  },
+  {
+    "Brand": "Thomson",
+    "Model": "Go",
+    "CPU": "Qualcomm Snapdragon 8",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 436.56
+  },
+  {
+    "Brand": "Thomson",
+    "Model": "Neo",
+    "CPU": "Intel Celeron",
+    "RAM": 4,
+    "Storage": 64,
+    "Final Price": 215.94
+  },
+  {
+    "Brand": "Thomson",
+    "Model": "Neo",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 512,
+    "Final Price": 399.0
+  },
+  {
+    "Brand": "Toshiba",
+    "Model": "Tecra",
+    "CPU": "Intel Core i3",
+    "RAM": 8,
+    "Storage": 256,
+    "Final Price": 799.0
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Edge",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 994.0
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Edge",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 1123.0
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Edge",
+    "CPU": "Intel Core i7",
+    "RAM": 16,
+    "Storage": 1000,
+    "Final Price": 1162.0
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Edge",
+    "CPU": "Intel Core i7",
+    "RAM": 40,
+    "Storage": 1000,
+    "Final Price": 1217.01
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Moove",
+    "CPU": "Intel Core i5",
+    "RAM": 8,
+    "Storage": 500,
+    "Final Price": 632.0
+  },
+  {
+    "Brand": "Vant",
+    "Model": "Moove",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 500,
+    "Final Price": 645.99
+  }
+]

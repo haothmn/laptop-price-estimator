@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Laptop Price Estimator</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto; }
+    label, select, input { display: block; margin: 10px 0; }
+    #result { margin-top: 20px; font-weight: bold; }
+  </style>
+</head>
+<body>
+
+  <h2>Second-Hand Laptop Price Estimator 💻</h2>
+
+  <form id="priceForm">
+    <label>Brand:
+      <select id="brand" required>
+        <option value="">Select Brand</option>
+        <option value="Dell">Dell</option>
+        <option value="HP">HP</option>
+        <option value="Lenovo">Lenovo</option>
+        <option value="Apple">Apple</option>
+        <option value="Acer">Acer</option>
+        <option value="Asus">Asus</option>
+        <option value="Alienware">Alienware</option>
+        <option value="Illigear">Illigear</option>
+        <option value="others">Others</option>
+      </select>
+    </label>
+
+    <label>Model:
+      <select id="model" required>
+        <option value="">Select Model</option>
+      </select>
+    </label>
+
+    <label>Year:
+      <input type="number" id="year" min="2010" max="2030" required />
+    </label>
+
+    <label>Condition:
+      <select id="condition" required>
+        <option value="excellent">Excellent</option>
+        <option value="good">Good</option>
+        <option value="fair">Fair</option>
+        <option value="poor">Poor</option>
+      </select>
+    </label>
+
+    <label>RAM (GB):
+      <input type="number" id="ram" min="2" required />
+    </label>
+
+    <label>Storage (GB):
+      <input type="number" id="storage" min="128" required />
+    </label>
+
+    <label>CPU:
+      <select id="cpu" required>
+        <option value="i3">Intel i3</option>
+        <option value="i5">Intel i5</option>
+        <option value="i7">Intel i7</option>
+        <option value="i9">Intel i9</option>
+        <option value="ryzen3">Ryzen 3</option>
+        <option value="ryzen5">Ryzen 5</option>
+        <option value="ryzen7">Ryzen 7</option>
+        <option value="ryzen9">Ryzen 9</option>
+      </select>
+    </label>
+
+    <button type="submit">Estimate Price</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script>
+    let laptopData = [];
+
+    // Load JSON data
+    fetch('laptop_prices_reference.json')
+      .then(response => response.json())
+      .then(data => {
+        laptopData = data;
+        populateModelOptions();
+      });
+
+    // Populate models based on brand
+    function populateModelOptions() {
+      const brandSelect = document.getElementById('brand');
+      const modelSelect = document.getElementById('model');
+
+      brandSelect.addEventListener('change', function () {
+        const selectedBrand = this.value;
+        const filteredModels = laptopData
+          .filter(item => item.Brand === selectedBrand)
+          .map(item => item.Model);
+        
+        const uniqueModels = [...new Set(filteredModels)];
+        modelSelect.innerHTML = '<option value="">Select Model</option>';
+        uniqueModels.forEach(model => {
+          const option = document.createElement('option');
+          option.value = model;
+          option.textContent = model;
+          modelSelect.appendChild(option);
+        });
+      });
+    }
+
+    document.getElementById('priceForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const brand = document.getElementById('brand').value;
+      const model = document.getElementById('model').value;
+      const year = parseInt(document.getElementById('year').value);
+      const condition = document.getElementById('condition').value;
+      const ram = parseInt(document.getElementById('ram').value);
+      const storage = parseInt(document.getElementById('storage').value);
+      const cpu = document.getElementById('cpu').value;
+
+      if (!brand || !model || isNaN(year) || isNaN(ram) || isNaN(storage) || !cpu) {
+        document.getElementById('result').textContent = "Please fill in all fields.";
+        return;
+      }
+
+      const match = laptopData.find(item =>
+        item.Brand === brand &&
+        item.Model === model &&
+        item.CPU === cpu &&
+        item.RAM === ram &&
+        item.Storage === storage
+      );
+
+      if (!match) {
+        document.getElementById('result').textContent = "No price data found for this configuration.";
+        return;
+      }
+
+      let price = match["Final Price"];
+
+      // Apply condition-based multiplier
+      const conditionMultiplier = {
+        excellent: 1,
+        good: 0.85,
+        fair: 0.7,
+        poor: 0.5
+      };
+      price *= conditionMultiplier[condition] || 1;
+
+      // Depreciate based on year (30% per year)
+      const age = new Date().getFullYear() - year;
+      price *= Math.pow(0.7, age);
+
+      const finalPrice = Math.max(50, Math.round(price));
+      document.getElementById('result').textContent = `Estimated Price: $${finalPrice}`;
+    });
+  </script>
+
+</body>
+</html>
